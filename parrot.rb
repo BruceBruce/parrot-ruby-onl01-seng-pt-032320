@@ -1,5 +1,5 @@
 def parrot("parrot" = "sqwauk")
   puts parrot
-  return "sqwauk"
+  return "parrot"
 end
 parrot
