@@ -1,5 +1,5 @@
-def parrot("Pretty bird" = "sqwauk")
-  puts #{pretty bird}
+def parrot("parrot" = "sqwauk")
+  puts parrot
   return "sqwauk"
 end
 parrot
